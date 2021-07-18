@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wilgur513&show_icons=true&hide_border=true&theme=dark&?count_private=true&line_height=24)
-[![Most used Langs in my Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=wilgur513&layout=compact&hide_border=true&langs_count=8&theme=dark&hide=html,css,scss,c,hack)](https://github.com/wilgur513/github-readme-stats)
+[![Most used Langs in my Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=wilgur513&layout=compact&hide_border=true&langs_count=8&theme=dark&hide=html,css,scss,c,hack)]
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wilgur513)](https://solved.ac/wilgur513)
