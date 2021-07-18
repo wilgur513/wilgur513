@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **wilgur513/wilgur513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+📈 stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wilgur513&show_icons=true&hide_border=true&theme=dark&?count_private=true&line_height=24)
 [![Most used Langs in my Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=wilgur513&layout=compact&hide_border=true&langs_count=8&theme=dark&hide=html,css,scss,c,hack)](https://github.com/wilgur513/github-readme-stats)
